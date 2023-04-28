@@ -1,3 +1,4 @@
+# Digital Library Management
 Functions of the project:
 * Adding a book
 * Searching a book with different parameters
